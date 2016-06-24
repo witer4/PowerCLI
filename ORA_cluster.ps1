@@ -2,7 +2,7 @@
 Title:			ORA cluster nodes deployment script
 Description:	This script is to create customerized oracle VMs
 Requirements:	PowerCLI 5.5
-Author:		    Kay Jeng
+Author:		    
 Date:			6/20/2016
 Version:		V1.1
 Update:			
